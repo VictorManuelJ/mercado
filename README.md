@@ -1,2 +1,2 @@
-# mercado
-tienda de articulos
+# template
+Template basico.
